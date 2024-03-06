@@ -1,5 +1,7 @@
- 
-body {
-    background-color: #6cddff;
-   }
-   
+body{
+    color: rgb(206, 69, 69);
+    background-color: bisque;
+}
+  h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
