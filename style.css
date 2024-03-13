@@ -1,7 +1,10 @@
 body{
-    color: rgb(206, 69, 69);
-    background-color: bisque;
+    color: rgb(245, 239, 239);
+    background-color: rgb(253, 141, 5);
 }
   h1 {
     font-family: "Lucida Console", "Courier New", monospace;
+  }
+  h2 {
+    color: rgb(8, 8, 8);
   }
